@@ -60,7 +60,7 @@ public interface List<E>{
      * Returns the number of elements in the list.
      * @return the number of elements in the list.
      */
-    public int lenght();
+    public int length();
 
     /**
      * Returns the position of the current element.
